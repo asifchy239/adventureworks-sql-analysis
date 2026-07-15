@@ -1,0 +1,5 @@
+Category,Units_Sold,Avg_Inventory,Inventory_Turnover,Turnover_Rating
+Bikes,180536,81,2228.41,"High Turnover"
+Clothing,73670,193,381.79,"High Turnover"
+Components,82159,231,356.37,"High Turnover"
+Accessories,76073,245,310.67,"High Turnover"
